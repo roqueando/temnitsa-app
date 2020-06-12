@@ -9,7 +9,7 @@ import {
 } from './styles';
 import {Grid, Row, Col } from '../../components/Grid';
 import Logo from '../../components/Logo';
-import api from '../../services/api';
+//import api from '../../services/api';
 import {fakeLogin} from '../../services/auth';
 import {useHistory} from 'react-router-dom';
 
